@@ -1,1 +1,2 @@
 This is the second file .
+Here i am Learning the git command.
